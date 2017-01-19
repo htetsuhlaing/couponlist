@@ -8,9 +8,9 @@
        "shopid":"001",
        "title":"New Year Discount sale",
        "description":"very fresh and delicious,complete family meals at affordable price",
-       "issue date":"2017-01-16",
-       "start date":"2017-01-20",
-       "end date":"2017-01-31"
+       "issuedate":"2017-01-16",
+       "startdate":"2017-01-20",
+       "enddate":"2017-01-31"
      },
     {
       "id":"02",
@@ -20,9 +20,9 @@
       "shopid":"002",
       "title":""Monthly Discount sale",
       "description":"global luxuary lifestyle brand",
-      "issue date":"2017-01-05",
-      "start date":"2017-01-10",
-      "end date":"2017-01-25"
+      "issuedate":"2017-01-05",
+      "startdate":"2017-01-10",
+      "enddate":"2017-01-25"
      }
         ]
     } 
