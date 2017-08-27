@@ -3,17 +3,8 @@
     {
       "id":"001",
       "image":"https://s28.postimg.org/8o6luzd99/kfc.jpg",
-      "name":"KFC corporation",
-      "category":"food",
-      "shopid":"001",
-      "title":"New Year Discount Sales",
-      "description":"very fresh and delicious,complete family meals at affordable price",
-      "tuser_area":"Everyone",
-      "tuser_gender":"unlimited",
-      "tuser_age":"unlimited",
-      "issuedate":"2017-01-16",
-      "startdate":"2017-01-31",
-      "enddate":"2017-02-20"
+      "name":"KFC coupon",
+      "enddate":"2017-08-31"
       
     },
  
@@ -21,16 +12,7 @@
    "id":"002",
    "image":"https://s28.postimg.org/ojlz34x1p/image.jpg",
    "name":"MICHAEL KORS",
-   "category":"branded corner",
-   "shopid":"002",
-   "title":"Monthly Discount Sales",
-   "description":"global luxuary lifestyle brand",
-   "tuser_area":"Ladies and Genglemen",
-   "tuser_gender":"unlimited",
-   "tuser_age":"over 16",
-    "issuedate":"2017-01-05",
-   "startdate":"2017-02-01",
-    "enddate":"2017-02-25"
+    "enddate":"2017-08-29"
    
    },
     
@@ -38,17 +20,14 @@
       "id":"003",
       "image":"https://s23.postimg.org/qxr8yr9bf/kanebo.jpg",
       "name":"Kanebo",
-      "category":"cosmetic",
-      "shopid":"003",
-      "title":"New Yeat Discount Sales",
-      "description":"japanese No1 product",
-      "tuser_area":"Ladies",
-      "tuser_gender":"female",
-      "tuser_age":"over 16",
-      "issuedate":"2017-01-30",
-      "startdate":"2017-02-10",
-      "enddate":"2017-02-22"
+      "enddate":"2017-08-30"
       
+    },
+    {
+      id":"004",
+      "image":"https://s23.postimg.org/qxr8yr9bf/kanebo.jpg",
+      "name":"Kanebo",
+      "enddate":"2017-09-01"
     }
   
     ]
